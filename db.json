@@ -1,82 +1,14 @@
-[
-  {
-    "id": 1,
-    "requested_by": "Chalid Abu Bakar",
-    "unit": "IT",
-    "level": "Supervisor",
-    "employment_status": "Full Time Permanent",
-    "position": "Developer",
-    "jobDesc": "html, CSS, Javascript, React",
-    "reason": "Replacement",
-    "qualification": "Account manager qualification",
-    "uth": "lorem ipsum uth",
-    "cmpSalary": "Rp9.000.000,-",
-    "cmpBenefit": "This is Benefit",
-    "remarks": "This is for remarks",
-    "requested_date": "1976-04-19T12:59-0500"
-  },
-  {
-    "id": 2,
-    "requested_by": "Judithia Lapian",
-    "unit": "Account",
-    "level": "Manager",
-    "employment_status": "Full Time Contracted",
-    "position": "Account Manager",
-    "jobDesc": "html css javascript",
-    "reason": "Replacement",
-    "qualification": "Graphic Designer Qualification",
-    "uth": "lorem ipsum uth",
-    "cmpSalary": "Rp10.000.000,-",
-    "cmpBenefit": "This is Benefit",
-    "remarks": "This is for remarks",
-    "requested_date": "1976-04-19T12:59-0500"
-  },
-  {
-    "id": 3,
-    "requested_by": "Beryl Girsang",
-    "unit": "Designer",
-    "level": "Staff",
-    "employment_status": "Freelance",
-    "position": "Graphic Designer",
-    "jobDesc": "Adobe Illustrator, Adobe Photoshop",
-    "reason": "Replacement",
-    "qualification": "lorem ipsum qualification",
-    "uth": "lorem ipsum uth",
-    "cmpSalary": "Rp6.000.000,-",
-    "cmpBenefit": "This is Benefit",
-    "remarks": "This is for remarks",
-    "requested_date": "1976-04-19T12:59-0500"
-  },
-  {
-    "id": 4,
-    "requested_by": "Reza JB",
-    "unit": "Designer",
-    "level": "Staff",
-    "employment_status": "Freelance",
-    "position": "Graphic Designer",
-    "jobDesc": "Adobe Illustrator, Adobe Photoshop",
-    "reason": "Replacement",
-    "qualification": "lorem ipsum qualification",
-    "uth": "lorem ipsum uth",
-    "cmpSalary": "Rp6.000.000,-",
-    "cmpBenefit": "This is Benefit",
-    "remarks": "This is for remarks",
-    "requested_date": "1976-04-19T12:59-0500"
-  },
-  {
-    "id": 5,
-    "requested_by": "Annura Nisrina",
-    "unit": "Social Media",
-    "level": "Staff",
-    "employment_status": "Freelance",
-    "position": "Graphic Designer",
-    "jobDesc": "Adobe Illustrator, Adobe Photoshop",
-    "reason": "Replacement",
-    "qualification": "lorem ipsum qualification",
-    "uth": "lorem ipsum uth",
-    "cmpSalary": "Rp6.000.000,-",
-    "cmpBenefit": "This is Benefit",
-    "remarks": "This is for remarks",
-    "requested_date": "1976-04-19T12:59-0500"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
